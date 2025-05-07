@@ -1,7 +1,5 @@
 # Rolling xG and xGA Comparison Over Two Seasons
 
-This project visualizes and compares a football team's expected goals (xG) and expected goals against (xGA) over two consecutive seasons using rolling averages.
-
 ## Overview
 
 The notebook fetches match-by-match xG and xGA data from FBref.com and plots both raw and rolling average values to highlight performance trends. This can help identify shifts in attacking and defensive performance over time, particularly useful for assessing tactical changes or managerial impact.
